@@ -236,6 +236,7 @@ NZ_EQUITIES = EquityCalendarDomain(CountryCode.NEW_ZEALAND, 'XNZE')
 PT_EQUITIES = EquityCalendarDomain(CountryCode.PORTUGAL, 'XLIS')
 SE_EQUITIES = EquityCalendarDomain(CountryCode.SWEDEN, 'XSTO')
 SG_EQUITIES = EquityCalendarDomain(CountryCode.SINGAPORE, 'XSES')
+SK_EQUITIES = EquityCalendarDomain(CountryCode.SOUTH_KOREA, 'XKRX')
 US_EQUITIES = EquityCalendarDomain(CountryCode.UNITED_STATES, 'XNYS')
 
 BUILT_IN_DOMAINS = [
@@ -263,6 +264,7 @@ BUILT_IN_DOMAINS = [
     PT_EQUITIES,
     SE_EQUITIES,
     SG_EQUITIES,
+    SK_EQUITIES,
     US_EQUITIES,
 ]
 
